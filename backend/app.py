@@ -10,6 +10,10 @@ from routes.ai_routes import ai_bp
 import os
 
 app = Flask(__name__)
+@app.route('/')
+def home():
+    return {"message": "CivicConnect AI Backend Running Successfully"}
+
 CORS(app, origins=["http://localhost:3000"], supports_credentials=True)
 
 app.config['SECRET_KEY'] = 'civicconnect-secret-key-2024'
