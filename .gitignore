@@ -1,0 +1,16 @@
+node_modules/
+frontend/node_modules/
+backend/node_modules/
+
+dist/
+build/
+
+.env
+
+__pycache__/
+*.pyc
+
+uploads/
+
+*.db
+*.sqlite
