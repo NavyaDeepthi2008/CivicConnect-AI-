@@ -131,31 +131,31 @@ CivicConnect AI provides a centralized platform that simplifies issue reporting,
 ## 📸 Screenshots
 
 ### Landing Page
-![Home page](screenshots/login UI 1.png)
-![Home page](screenshots/login UI 2.png)
-![Home page](screenshots/login UI 3.png)
-![Home page](screenshots/login UI 4.png)
+![Home page] (screenshots/login UI 1.png)
+![Home page] (screenshots/login UI 2.png)
+![Home page] (screenshots/login UI 3.png)
+![Home page] (screenshots/login UI 4.png)
 
 ### Dashboard
-![Dashboard - white theme](screenshots/DashBoard UI white theme.png)
-![Dashboard - black theme](screenshots/DashBoard UI black theme.png)
+![Dashboard - white theme] (screenshots/Dashboard UI white theme.png)
+![Dashboard - black theme] (screenshots/DashBoard UI black theme.png)
 
 ### Languages
-![Available Languages](screenshots/Available Languages.png)
+![Available Languages] (screenshots/Available Languages.png)
 
 ### Issue Map
-![Issue](screenshots/Issue UI.png)
+![Issue] (screenshots/Issue UI.png)
 
 ### Raise Issue Page
-![Raise Issue](screenshots/RaiseIssue UI 1.png)
-![Raise Issue](screenshots/RaiseIssue UI 2.png)
-![Raise Issue](screenshots/RaiseIssue UI 3.png)
+![Raise Issue] (screenshots/Raise Issue UI 1.png)
+![Raise Issue] (screenshots/Raise Issue UI 2.png)
+![Raise Issue] (screenshots/Raise Issue UI 3.png)
 
 ### Analytics Dashboard
-![Analytics DashBoard](screenshots/Analytics UI.png)
+![Analytics DashBoard] (screenshots/Analytics UI.png)
 
 ### Profile UI.png
-![Profile](screenshots/profile UI.png)
+![Profile] (screenshots/profile UI.png)
 
 ---
 
@@ -180,3 +180,4 @@ https://civicconnect-ai-sl3m.onrender.com/
 **Navya**
 
 Built as a Full-Stack AI Civic Technology Project to improve community engagement and civic problem resolution.
+
