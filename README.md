@@ -131,19 +131,36 @@ CivicConnect AI provides a centralized platform that simplifies issue reporting,
 ## 📸 Screenshots
 
 ### Landing Page
-(Add Screenshot Here)
+![Home page](screenshots/login UI 1.png)
+![Home page](screenshots/login UI 2.png)
+![Home page](screenshots/login UI 3.png)
+![Home page](screenshots/login UI 4.png)
 
 ### Dashboard
-(Add Screenshot Here)
+![Dashboard - white theme](screenshots/DashBoard UI white theme.png)
+![Dashboard - black theme](screenshots/DashBoard UI black theme.png)
+
+### Languages
+![Available Languages](screenshots/Available Languages.png)
+
+### Issue Map
+![Issue](screenshots/Issue UI.png)
 
 ### Raise Issue Page
-(Add Screenshot Here)
-
-### Interactive Map
-(Add Screenshot Here)
+![Raise Issue](screenshots/RaiseIssue UI 1.png)
+![Raise Issue](screenshots/RaiseIssue UI 2.png)
+![Raise Issue](screenshots/RaiseIssue UI 3.png)
 
 ### Analytics Dashboard
-(Add Screenshot Here)
+![Analytics DashBoard](screenshots/Analytics UI.png)
+
+### Profile UI.png
+![Profile](screenshots/profile UI.png)
+
+---
+
+## Live Demo Link 
+https://civicconnect-ai-sl3m.onrender.com/
 
 ---
 
