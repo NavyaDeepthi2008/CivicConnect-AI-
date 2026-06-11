@@ -131,31 +131,28 @@ CivicConnect AI provides a centralized platform that simplifies issue reporting,
 ## 📸 Screenshots
 
 ### Landing Page
-![Home page] (screenshots/login UI 1.png)
-![Home page] (screenshots/login UI 2.png)
-![Home page] (screenshots/login UI 3.png)
-![Home page] (screenshots/login UI 4.png)
+![Home page](https://github.com/NavyaDeepthi2008/CivicConnect-AI-/blob/main/screenshots/login%20UI%201.png)
+![Home page](https://github.com/NavyaDeepthi2008/CivicConnect-AI-/blob/main/screenshots/login%20UI%202.png)
+![Home page](https://github.com/NavyaDeepthi2008/CivicConnect-AI-/blob/main/screenshots/login%20UI%203.png)
+![Home page](https://github.com/NavyaDeepthi2008/CivicConnect-AI-/blob/main/screenshots/login%20UI%204.png)
 
 ### Dashboard
-![Dashboard - white theme] (screenshots/Dashboard UI white theme.png)
-![Dashboard - black theme] (screenshots/DashBoard UI black theme.png)
+![Dashboard - white theme](https://github.com/NavyaDeepthi2008/CivicConnect-AI-/blob/main/screenshots/Dashboard%20UI%20white%20theme.png)
+![Dashboard - black theme](https://github.com/NavyaDeepthi2008/CivicConnect-AI-/blob/main/screenshots/DashBoard%20UI%20black%20theme.png)
 
 ### Languages
-![Available Languages] (screenshots/Available Languages.png)
+![Available Languages](https://github.com/NavyaDeepthi2008/CivicConnect-AI-/blob/main/screenshots/Available%20Languages.png)
 
 ### Issue Map
-![Issue] (screenshots/Issue UI.png)
+![Issue](https://github.com/NavyaDeepthi2008/CivicConnect-AI-/blob/main/screenshots/Issue%20UI.png)
 
 ### Raise Issue Page
-![Raise Issue] (screenshots/Raise Issue UI 1.png)
-![Raise Issue] (screenshots/Raise Issue UI 2.png)
-![Raise Issue] (screenshots/Raise Issue UI 3.png)
+![Raise Issue](https://github.com/NavyaDeepthi2008/CivicConnect-AI-/blob/main/screenshots/Raise%20Issue%20UI%201.png)
+![Raise Issue](https://github.com/NavyaDeepthi2008/CivicConnect-AI-/blob/main/screenshots/Raise%20Issue%20UI%202.png)
+![Raise Issue](https://github.com/NavyaDeepthi2008/CivicConnect-AI-/blob/main/screenshots/Raise%20Issue%20UI%203.png)
 
 ### Analytics Dashboard
-![Analytics DashBoard] (screenshots/Analytics UI.png)
-
-### Profile UI.png
-![Profile] (screenshots/profile UI.png)
+![Analytics DashBoard](https://github.com/NavyaDeepthi2008/CivicConnect-AI-/blob/main/screenshots/Analytics%20UI.png)
 
 ---
 
