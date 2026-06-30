@@ -14,7 +14,7 @@ app = Flask(__name__)
 def home():
     return {"message": "CivicConnect AI Backend Running Successfully"}
 
-CORS(app, origins=["http://localhost:3000"], supports_credentials=True)
+CORS(app, supports_credentials=True)
 
 app.config['SECRET_KEY'] = 'civicconnect-secret-key-2024'
 app.config['JWT_SECRET_KEY'] = 'civicconnect-jwt-secret-2024'
