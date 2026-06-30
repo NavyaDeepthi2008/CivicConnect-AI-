@@ -1,4 +1,4 @@
-const BASE_URL = 'http://localhost:5000/api';
+const BASE_URL = 'https://civicconnect-ai-26ql.onrender.com/api'
 
 const getHeaders = (token, isFormData = false) => {
   const headers = { Authorization: `Bearer ${token}` };
